@@ -38,3 +38,8 @@ Rubric:
 2. Performance. How well does the project achieve its intended goal? Is the implementation efficient?
 
 3. Documentation. How easy is the code to understand? Is code well-commented? Is there a ReadMe file with an overview of the project and instructions for deployment?
+
+
+Results:
+![image info](images/!BlouseShirt-Examples.png)
+
